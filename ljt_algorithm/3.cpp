@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 int a[10] = {12,35,99,18,76,21,58,99,81,67};
@@ -35,7 +35,7 @@ void Quik_Sort(int left,int right)
 }
 int quik_main()
 {
-	std::cout<<"ÅÅÐòÇ°"<<endl;
+	std::cout<<"æŽ’åºå‰"<<endl;
 	for(int i = 0;i < 10;i++)
 	{
 		std::cout<<a[i]<<" ";
@@ -45,7 +45,7 @@ int quik_main()
 
 	Quik_Sort(0,9);
 
-	std::cout<<"ÅÅÐòºó"<<endl;
+	std::cout<<"æŽ’åºåŽ"<<endl;
 	for(int i = 0;i < 10;i++)
 	{
 		std::cout<<a[i]<<" ";

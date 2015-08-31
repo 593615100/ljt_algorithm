@@ -1,4 +1,4 @@
-#if _MSC_VER >= 1600
+ï»¿#if _MSC_VER >= 1600
 #pragma execution_character_set("utf-8")
 #endif
 
@@ -7,12 +7,12 @@ using namespace std;
 
 int quik_main()
 {
-	std::cout<<"ÅÅÐòÇ°"<<endl;
+	std::cout<<"æŽ’åºå‰"<<endl;
 
 	std::cout<<endl;
 
 
-	std::cout<<"ÅÅÐòºó"<<endl;
+	std::cout<<"æŽ’åºåŽ"<<endl;
 
 	std::cout<<endl;
 	system("pause");

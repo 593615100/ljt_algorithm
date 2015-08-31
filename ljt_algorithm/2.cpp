@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+Ôªø#define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -7,7 +7,7 @@ int Bubble_Sort()
 {
 	int flag[10] = {12,35,99,18,76,21,58,99,81,67};
 	int index = 0;
-	printf("≈≈–Ú«∞£∫\n");
+	printf("ÊéíÂ∫èÂâçÔºö\n");
 	for(int i = 0;i < 10;i++)
 	{
 		printf("%d ",flag[i]);
@@ -24,7 +24,7 @@ int Bubble_Sort()
 			}
 
 
-	printf("≈≈–Ú∫Û£∫\n");
+	printf("ÊéíÂ∫èÂêéÔºö\n");
 	for(int i = 0;i < 10;i++)
 	{
 		printf("%d ",flag[i]);
