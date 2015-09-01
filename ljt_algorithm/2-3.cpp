@@ -3,7 +3,7 @@
 #include<queue>
 using namespace std;
 
-int main()
+int main_2_3()
 {
 	int player_a[3] = {2,4,1};
 	int player_b[3] = {3,1,3};

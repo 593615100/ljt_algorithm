@@ -5,7 +5,7 @@
 #include<iostream>
 using namespace std;
 
-int quik_main()
+int quik_main_4()
 {
 	std::cout<<"排序前"<<endl;
 
