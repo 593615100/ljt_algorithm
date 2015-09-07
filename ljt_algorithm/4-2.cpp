@@ -42,7 +42,7 @@ void dfs(int x,int y,int step)
 	return;
 }
 
-int main()
+int main42()
 {
 	int start = 1,end = 1;
 	a[4][7] = 1;
