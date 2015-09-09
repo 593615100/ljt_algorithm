@@ -43,7 +43,7 @@ void merge(int v,int u){
 		f73[t2] = t1;
 }
 
-int main()
+int main73()
 {
 	int x,y;
 	std::cin>>n73>>m73;
